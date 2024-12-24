@@ -5,10 +5,21 @@ copyright: >
 nav:
   - 'Dark Cosmos': 'index.md'
   - 'The Erilia Sector':
-    - 'About the Erilia Sector': 'sectors/erilia.md'
+    - 'About the Erilia Sector': 'sector/erilia.md'
     - 'Star Systems of Erilia':
-      - 'Pangatis': 'star-systems/pangatis.md'
-      - 'Solairace': 'star-systems/solairace.md'
+      - 'Pangatis': 'star-system/pangatis.md'
+      - 'Solairace': 'star-system/solairace.md'
+  - 'Factions':
+    - 'Concordant Collective':
+      - 'The Concordant Collective': 'faction/concordant-collective/the-concordant-collective.md'
+    - 'Criminal':
+      - 'Requiem Insurgency': 'faction/criminal/requiem-insurgency.md'
+    # - 'Weirdness':
+  - 'Xeno Species':
+    - 'Avali': 'xeno/avali.md'
+    - 'Kxal': 'xeno/kxal.md'
+    - "Tz'ldani": 'xeno/tzldani.md'
+    - 'Yuguar': 'xeno/yuguar.md'
 markdown_extensions:
   - toc:
       separator: "_"
@@ -18,6 +29,7 @@ markdown_extensions:
   - md_in_html
 plugins:
   - search
+  - callouts
 theme:
   name: windmill
   # name: dracula

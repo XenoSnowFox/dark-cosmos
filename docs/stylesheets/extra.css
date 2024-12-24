@@ -1,0 +1,14 @@
+
+.admonition.inline {
+  float:left;
+  clear: both;
+
+}
+.admonition.inline.end {
+  float:right;
+  clear: both;
+}
+
+.admonition-title {
+  margin: 0;
+}
