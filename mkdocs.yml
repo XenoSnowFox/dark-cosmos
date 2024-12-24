@@ -4,6 +4,8 @@ copyright: >
   Dark Cosmos ©2024 is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer nofollow">Creative Commons Attribution-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="//mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="//mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
 nav:
   - 'Dark Cosmos': 'index.md'
+  - 'Session Notes':
+    - 'S01: Untitled Season': 'session-notes/season-one.md'
   - 'Erilia Sector':
     - 'About the Erilia Sector': 'sector/erilia.md'
     - 'Star Systems of Erilia':
@@ -16,6 +18,8 @@ nav:
   - 'Planets':
     - 'Bechil Quadrant':
       - 'Citadel': 'planet/citadel.md'
+    - 'Pangatis':
+      - 'Concordant Archives': 'planet/concordant-archives.md'
   - 'Factions':
     - 'Concordant Collective':
       - 'The Concordant Collective': 'faction/concordant-collective/the-concordant-collective.md'
