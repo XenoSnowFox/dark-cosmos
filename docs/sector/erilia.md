@@ -7,4 +7,4 @@ title: The Erilia Sector
 
 ## Map of the Erilia Sector
 
-![Map of the Erilia Sector](/image/erilia-sector-map.png)
+![Map of the Erilia Sector](/dark-cosmos/image/erilia-sector-map.png)
