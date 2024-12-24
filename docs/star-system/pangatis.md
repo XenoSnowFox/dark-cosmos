@@ -2,6 +2,6 @@
 title: The Pangatis System
 ---
 
-# The Pangatis System
+# About the Pangatis System
 
 TODO

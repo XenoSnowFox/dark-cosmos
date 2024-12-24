@@ -1,5 +1,10 @@
 ---
-title: About the Erilia Sector
+title: The Erilia Sector
 ---
 
-TODO
+# The Erilia Sector
+
+
+## Map of the Erilia Sector
+
+![Map of the Erilia Sector](/image/erilia-sector-map.png)
