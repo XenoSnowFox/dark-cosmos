@@ -1,0 +1,41 @@
+site_name: Dark Cosmos
+site_url: https://darkcosmos.xenosnowfox.com/
+copyright: >
+  Dark Cosmos ©2024 is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer nofollow">Creative Commons Attribution-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="//mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="//mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+nav:
+  - 'Dark Cosmos': 'index.md'
+  - 'The Erilia Sector':
+    - 'About the Erilia Sector': 'sectors/erilia.md'
+    - 'Star Systems of Erilia':
+      - 'Pangatis': 'star-systems/pangatis.md'
+      - 'Solairace': 'star-systems/solairace.md'
+markdown_extensions:
+  - toc:
+      separator: "_"
+      permalink: "🔗"
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - search
+theme:
+  name: windmill
+  # name: dracula
+  # name: bootstrap386
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+    # - navigation.indexes
+    - search.suggest
+    - search.share
+    - toc.follow
+extra_css:
+  - stylesheets/extra.css
