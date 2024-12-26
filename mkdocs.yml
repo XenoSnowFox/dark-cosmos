@@ -20,6 +20,10 @@ nav:
       - 'Citadel': 'planet/citadel.md'
     - 'Pangatis':
       - 'Concordant Archives': 'planet/concordant-archives.md'
+  - 'Places of Interest':
+    - 'Bechil Quadrant':
+      - 'The Caaroid Blockade': 'places-of-interest/the-caaroid-blockade.md'
+      - 'The Scrap Field': 'places-of-interest/the-scrap-field.md'
   - 'Factions':
     - 'Concordant Collective':
       - 'The Concordant Collective': 'faction/concordant-collective/the-concordant-collective.md'
