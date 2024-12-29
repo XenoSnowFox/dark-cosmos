@@ -19,8 +19,12 @@ nav:
     - 'Bechil Quadrant':
       - 'Citadel': 'planet/citadel.md'
       - 'The Burrows': 'planet/the-burrows.md'
+    - 'Leonis Vortex':
+      - 'Ix': 'planet/ix.md'
     - 'Pangatis':
       - 'Concordant Archives': 'planet/concordant-archives.md'
+    - 'Solairace':
+      - 'Ganymede': 'planet/ganymede.md'
   - 'Places of Interest':
     - 'Bechil Quadrant':
       - 'The Caaroid Blockade': 'places-of-interest/the-caaroid-blockade.md'
