@@ -18,6 +18,7 @@ nav:
   - 'Planets':
     - 'Bechil Quadrant':
       - 'Citadel': 'planet/citadel.md'
+      - 'The Burrows': 'planet/the-burrows.md'
     - 'Pangatis':
       - 'Concordant Archives': 'planet/concordant-archives.md'
   - 'Places of Interest':
@@ -27,6 +28,7 @@ nav:
   - 'Factions':
     - 'Concordant Collective':
       - 'The Concordant Collective': 'faction/concordant-collective/the-concordant-collective.md'
+      - 'Concordant News Network': 'faction/concordant-collective/concordant-news-network.md'
     - 'Criminal':
       - 'Requiem Insurgency': 'faction/criminal/requiem-insurgency.md'
     # - 'Weirdness':
@@ -42,6 +44,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - pymdownx.keys
 plugins:
   - search
   - callouts

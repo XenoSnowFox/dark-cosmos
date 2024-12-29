@@ -21,7 +21,7 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{secrets.SSH_PRIVATE_KEY}}
           SSH_KNOWN_HOSTS: ${{secrets.SSH_KNOWN_HOSTS}}
-      - run: pip install mkdocs mkdocs-windmill mkdocs-callouts
+      - run: pip install mkdocs mkdocs-windmill mkdocs-callouts pymdown-extensions
       - run: mkdocs build
       - name: Upload static files as artifact
         id: deployment
