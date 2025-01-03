@@ -16,3 +16,8 @@ The Requiem Insurgency holds no known turf. The is no known location deemed as t
 
 
 ## Notable Characters
+
+## Status Changes
+
+| Adjustment | Running Total | Details |
+|------------|---------------|---------|

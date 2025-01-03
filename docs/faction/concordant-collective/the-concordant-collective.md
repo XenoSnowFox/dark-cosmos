@@ -33,3 +33,8 @@ The Concorde and the Concordant Council reside on the planet of [Citadel](/plane
 #### Jehen Bakerral
 
 #### Orion Kahn
+
+## Status Changes
+
+| Adjustment | Running Total | Details |
+|------------|---------------|---------|

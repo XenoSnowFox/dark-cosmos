@@ -12,3 +12,8 @@ title: Concordant News Network
 ## Turf / Residence
 
 The headquarters for The Concordant News Network is located on [The Burrows](/planet/the-burrows) within the [Bechil Quadrant](/star-system/bechil-quadrant). The Concordant News Network have field offices on most inhabited planets.
+
+## Status Changes
+
+| Adjustment | Running Total | Details |
+|------------|---------------|---------|
