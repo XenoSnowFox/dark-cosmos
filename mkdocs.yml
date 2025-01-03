@@ -40,6 +40,13 @@ nav:
     - 'Criminal':
       - 'Requiem Insurgency': 'faction/criminal/requiem-insurgency.md'
     # - 'Weirdness':
+  - 'NPCs':
+    - 'Alben': 'npcs/alben.md'
+    - 'Blish': 'npcs/blish.md'
+    - 'Hicks': 'npcs/hicks.md'
+    - 'Jackev': 'npcs/jackev.md'
+    - 'Mav': 'npcs/mav.md'
+    - 'Triv and Trel': 'npcs/triv-and-trel.md'
   - 'Xeno Species':
     - 'Avali': 'xeno/avali.md'
     - 'Kxal': 'xeno/kxal.md'

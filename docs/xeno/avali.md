@@ -2,7 +2,7 @@
 title: Avali
 ---
 
-# Avail
+# Avali
 
 **Approx. Height:** 5ft or 150cm
 
