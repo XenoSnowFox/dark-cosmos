@@ -6,6 +6,10 @@ nav:
   - 'Dark Cosmos': 'index.md'
   - 'Session Notes':
     - 'S01: Untitled Season': 'session-notes/season-one.md'
+  - 'Crew':
+    - 'Algernon Blue': 'crew/algernon-blue.md'
+    - 'Arc Ferris': 'crew/arc-ferris.md'
+    - 'Voel Burung': 'crew/voel-burung.md'
   - 'Erilia Sector':
     - 'About the Erilia Sector': 'sector/erilia.md'
     - 'Star Systems of Erilia':
