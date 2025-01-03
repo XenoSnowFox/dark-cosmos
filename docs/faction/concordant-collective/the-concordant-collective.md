@@ -4,7 +4,8 @@ title: The Concordant Collective
 
 # The Concordant Collective
 
-!!! note inline end "Tier: IV"
+**Tier Rating:** ++"IV"++<br />
+**Starting Status:** ++"0"++
 
 The Concordant Collective is the representative government of this galaxy. Although planets generally govern independently, those majority who form part of the collective are held to it's laws and powers (think of this operating like the USA, there's an overall federal government and then there are independent state governments).
 

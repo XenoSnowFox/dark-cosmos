@@ -4,7 +4,8 @@ title: Concordant News Network
 
 # About The Concordant News Network
 
-!!! note inline end "Tier: II"
+**Tier Rating:** ++"II"++<br />
+**Starting Status:** ++"0"++
 
 ???
 
