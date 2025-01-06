@@ -10,6 +10,7 @@ nav:
     - 'Algernon Blue': 'crew/algernon-blue.md'
     - 'Arc Ferris': 'crew/arc-ferris.md'
     - 'Voel Burung': 'crew/voel-burung.md'
+    - 'The Coyfish (ship)': 'crew/the-coyfish.md'
   - 'Erilia Sector':
     - 'About the Erilia Sector': 'sector/erilia.md'
     - 'Star Systems of Erilia':
@@ -23,6 +24,8 @@ nav:
     - 'Bechil Quadrant':
       - 'Citadel': 'planet/citadel.md'
       - 'The Burrows': 'planet/the-burrows.md'
+    - 'Caaroid':
+      - 'Poinope': 'planet/poinope.md'
     - 'Leonis Vortex':
       - 'Ix': 'planet/ix.md'
     - 'Pangatis':
