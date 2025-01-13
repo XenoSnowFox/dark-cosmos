@@ -43,7 +43,8 @@ nav:
       - 'Matrons Engineering Guild': 'faction/concordant-collective/matrons-engineering-guild.md'
     - 'Criminal':
       - 'Requiem Insurgency': 'faction/criminal/requiem-insurgency.md'
-    # - 'Weirdness':
+    - 'Weirdness':
+      - 'The Reminiscent Sanctuary': 'faction/weird/the-reminiscent-sanctuary.md'
   - 'NPCs':
     - 'Ada Black': 'npc/ada-black.md'
     - 'Alben': 'npc/alben.md'
