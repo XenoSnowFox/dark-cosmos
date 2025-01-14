@@ -45,13 +45,14 @@ nav:
       - 'Requiem Insurgency': 'faction/criminal/requiem-insurgency.md'
     # - 'Weirdness':
   - 'NPCs':
-    - 'Ada Black': 'npc/ada-black.md'
-    - 'Alben': 'npc/alben.md'
-    - 'Blish': 'npc/blish.md'
-    - 'Hicks': 'npc/hicks.md'
-    - 'Jackev': 'npc/jackev.md'
-    - 'Mav': 'npc/mav.md'
-    - 'Triv and Trel': 'npc/triv-and-trel.md'
+    - 'Friends':
+      - 'Ada Black': 'npc/ada-black.md'
+      - 'Alben': 'npc/alben.md'
+      - 'Blish': 'npc/blish.md'
+      - 'Hicks': 'npc/hicks.md'
+      - 'Jackev': 'npc/jackev.md'
+      - 'Mav': 'npc/mav.md'
+      - 'Triv and Trel': 'npc/triv-and-trel.md'
   - 'Xeno Species':
     - 'Avali': 'xeno/avali.md'
     - 'Kxal': 'xeno/kxal.md'
