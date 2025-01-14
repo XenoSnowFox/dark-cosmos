@@ -41,9 +41,12 @@ nav:
       - 'The Concordant Collective': 'faction/concordant-collective/the-concordant-collective.md'
       - 'Concordant News Network': 'faction/concordant-collective/concordant-news-network.md'
       - 'Matrons Engineering Guild': 'faction/concordant-collective/matrons-engineering-guild.md'
+    - 'Corporate':
+      - 'Quasar Cosmetics': 'faction/corporate/quasar-cosmetics.md'
     - 'Criminal':
       - 'Requiem Insurgency': 'faction/criminal/requiem-insurgency.md'
-    # - 'Weirdness':
+    - 'Weirdness':
+      - 'The Reminiscent Sanctuary': 'faction/weird/the-reminiscent-sanctuary.md'
   - 'NPCs':
     - 'Friends':
       - 'Ada Black': 'npc/ada-black.md'
