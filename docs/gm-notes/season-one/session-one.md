@@ -17,6 +17,8 @@ Date of recording is planned for Feb 4th at 7:30pm.
 > Then we have Dush.
 >
 > And finally Sam.
+>
+> Let's delve right in and get to experience the Dark Cosmos.
 
 ### Job Phase
 
@@ -63,4 +65,49 @@ Date of recording is planned for Feb 4th at 7:30pm.
 
 ### Post Credit Scene
 
+> __Zeke:__
+>
+> Good evening and welcome to Concordant Tonight. I'm Zeke Weatherall and with me here in the studio is the face of Gloop, the miricale anti-aging foundation produced by Quasar Cosmetics, it's Anastasia del Vito.
+>
+> *&lt;audience applause&gt;*
+>
+> __Anastasia:__
+>
+> Hi Zeke, thank you for having me on your show.
+>
+> __Zeke:__
+>
+> Anastasia, it's good to have you here tonight. I want to delve right into, we got the biggest new release this week with the debut of the new Gloop formula. Which I believe is the biggest thing to come from Quasar Cosmetics since the launch of Gloop itself.
+>
+> __Anastasia:__
+>
+> Why yes Zeke, our team of dedicated scientists and researches have developed a brand new chemical compound which we're calling Dyst.
+> Dyst is naturally sourced, completely organic and 100% biodegradable. So not only will Gloop be beautify for your skin, but will also be beautify for the environment.
+>
+> __Zeke:__
+>
+> That is amazing. Would you be able to share with us, just where this new component is sourced from.
+>
+> __Anastasia:__
+>
+> I'm sorry Zeke, but Dyst is currently one of our top trade secrets that we don't want falling into the hands of our competitors. If I told you, I'd basically have to kill you.
+>
+> *&lt;Laughter&gt;*
+>
+> __Zeke:__
+>
+> Well we can't have that now, it would be abysmal for my ratings.
+>
+> *&lt;Laughter&gt;*
+>
+> Thank you once again for taking the time out of your busy schedule to be with us tonight. And keep an eye out for the newly improved Gloop foundation, which has been making its way to spaceport all across the sector.
+>
+> Please give a warm hand for Anastasia del Vito.
+>
+> *&lt;audience applause&gt;*
+>
+> Stick around after the break as we catch up with the infamous vocal superstar Ada Black and discuss her most recent Stars Abound Tour.
+>
+> *&lt;outro music&gt;*
+>
 
