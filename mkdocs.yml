@@ -56,6 +56,9 @@ nav:
       - 'Jackev': 'npc/jackev.md'
       - 'Mav': 'npc/mav.md'
       - 'Triv and Trel': 'npc/triv-and-trel.md'
+    - 'Persons of Interest':
+      - 'Anastasia del Vito': 'npc/anastasia-del-vito.md'
+      - 'Zeke Weatherall': 'npc/zeke-weatherall.md'
   - 'Xeno Species':
     - 'Avali': 'xeno/avali.md'
     - 'Kxal': 'xeno/kxal.md'
