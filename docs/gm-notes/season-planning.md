@@ -4,6 +4,8 @@ title: Season Planning
 
 ### Dark Cosmos
 
+#### Current Plot Lines
+
 - __S01: Lost & Found__
   The introductory season, where we are introduced to our characters and the setting.
 
