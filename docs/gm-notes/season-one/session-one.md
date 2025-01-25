@@ -43,6 +43,12 @@ Date of recording is planned for Feb 4th at 7:30pm.
 
 ### Downtime Activities & Free-Play
 
+
+
+
+
+On the planet Veryn, describe the buildings as having signs of posters over the years being stacked one on top of others, forming a layered shell over the walls. The more recent additions are promotions for `Black In Ix`, an underground techno-hacker rave being hosted in the neighboring Leonis Vortex system, propaganda calling for citizens to enroll in the Concordant Knights and some various cosmetics advertisements, for foundations that make you more youthful, glimmering eye liners and bold red lip sticks, seeming somewhat out of touch with the local populace.
+
 ### Engagement Roll
 
 ### Character Advancements
