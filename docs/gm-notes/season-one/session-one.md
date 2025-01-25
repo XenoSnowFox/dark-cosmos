@@ -24,7 +24,34 @@ Date of recording is planned for Feb 4th at 7:30pm.
 
 #### Setting the scene - News Broadcast
 
+We start on a shot of a news anchor, reporting on the latest events.
+
+> __Zeke:__
+>
+> And once again members of the Concordant Council have been recalled back into session to discuss the ongoing military Blockaide that has been imposed between the Caaroid System and the Bechil Quadrant.
+>
+> In a rare turn of events the Concordant News Network has given granted access to report directly from the Citadel. As we now cross live to CNN field correspandant Sandy Tate.
+>
+> Sandy wants seems to be current state of affairs there on the Citadel.
+>
+> __Sandy:__
+>
+> Hi Zeke, I am currently reporting live from the Citadel, as it orbits about The Burrows planet here in the Bechil Quadrant.
+>
+> Now it is important to note that even though we have been granted access to the moon, it is not without the strict security protocols.
+>
+> As you can see behind me Zeke, the military force is on high alert as the Concordant Knights await to escort each of the five appointees to the Concordant Council.
+>
+> Tensions are also running, as further talks seem to suggest in lieu of recent events a tightening of security around the jumpgate to the Caaroid System, is top of the agenda and can see additional limitations being places of any and all travel between the two star systems.
+>
+
+As the broadcast continues on, we zoom out from a small CRT bolted into an office wall. A dreary looking, faded lime green that you'd expect to see in a 90s goverment building. Flourescent lights emitting a soft buzzing sound. The ring of  a telephone echos through the cubicals, cutting across the muffled sounds of shuffling papers and clacking of computer keyboards. This place, known as the Concordant Archive. A government facility in the Pangatis system where important documents and low security artifacts are sent for processing and storage.
+
 #### Vaults - Introduction to Algernon
+
+We move past the cubicals and back towards the archives themselves, lined with chunky metal filing cabneits that stretch from floor to the ceiling, shelving units packed with varying sized archive boxes and further in we see a humanoid figure standing, searching through of a wall inset with various vault doors.
+
+Cut to Sam to describe/introduce their character.
 
 #### ?? - Introduction to Voel
 
@@ -41,13 +68,39 @@ Date of recording is planned for Feb 4th at 7:30pm.
 
 ### Entanglements
 
+
+Some potential entanglement ideas:
+
+- __Ship Trouble__
+
+    Crew Quarters - foul smell as the septic tank has been jostled and back flowed.
+
+    Shuttle - Has taken damage to its allerons and can only turn left.
+
+    Particle Cannons - Jammed, impose a `-1d` dice penalty when using them.
+
+- __Unquiet Black__
+
+    Way mites. Itchy tiny bugs.
+
+    Asteroid slug, climbing about the outside of the ship. Large banana slug like creatures.
+
+- __New Friends__
+
+    Hijack medical freighter.
+
+    Rescue the rebels in the Solairace system.
+
 ### Downtime Activities & Free-Play
 
 
 
 
 
-On the planet Veryn, describe the buildings as having signs of posters over the years being stacked one on top of others, forming a layered shell over the walls. The more recent additions are promotions for `Black In Ix`, an underground techno-hacker rave being hosted in the neighboring Leonis Vortex system, propaganda calling for citizens to enroll in the Concordant Knights and some various cosmetics advertisements, for foundations that make you more youthful, glimmering eye liners and bold red lip sticks, seeming somewhat out of touch with the local populace.
+On the planet Veryn, describe the buildings as having signs of posters over the years being stacked one on top of others, forming a layered shell over the walls. The more recent additions are promotions for `Black In Ix`, an underground techno-hacker rave being hosted in the neighboring Leonis Vortex system, propaganda posters calling for citizens to enroll in the Concordant Knights and then some various cosmetics advertisements, boasting a new formula for foundations that make you more youthful, glimmering eye liners and bold red lip sticks.
+
+Those last ones seem somewhat out of touch with the local populace, trying to sell a product clearly aimed at the more affluent societies. As you look down alleyways you see makeshift shelters made from scraps of metals and thick rough cloths.
+You see a Kxal lady with deep green fur, showing a photo to passer bys asking if they've see the young Kxal depicted. Theres a small patrol of local Concordant Knight moving the local drunkard on from the main thoroughfare.
 
 ### Engagement Roll
 
