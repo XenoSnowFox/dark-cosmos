@@ -10,7 +10,7 @@ title: Ix
     **Tech Level:** ⯈⯈<br />
     **Weird:** ⯈
 
-The Burrows is the culture capital of the Erilia Sector.
+Ix is the culture capital of the Erilia Sector.
 
 ## Additional Rules
 

@@ -46,6 +46,7 @@ nav:
     - 'Corporate':
       - 'Quasar Cosmetics': 'faction/corporate/quasar-cosmetics.md'
     - 'Criminal':
+      - 'Live Wires': 'faction/criminal/live-wires.md'
       - 'Requiem Insurgency': 'faction/criminal/requiem-insurgency.md'
     - 'Weirdness':
       - 'The Reminiscent Sanctuary': 'faction/weird/the-reminiscent-sanctuary.md'
