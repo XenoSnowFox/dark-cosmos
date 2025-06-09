@@ -12,9 +12,9 @@ Date of recording is planned for Feb 4th at 7:30pm.
 
 > Now before we dive right into it, let me introduce you to my Placeholder NPCs.
 >
-> Starting of with Lex.
+> Starting of with Dush.
 >
-> Then we have Dush.
+> Then we have Lex.
 >
 > And finally Sam.
 >
@@ -66,6 +66,8 @@ Cut to Sam to describe/introduce their character.
 
 ### Heat
 
+
+
 ### Entanglements
 
 
@@ -84,6 +86,8 @@ Some potential entanglement ideas:
     Way mites. Itchy tiny bugs.
 
     Asteroid slug, climbing about the outside of the ship. Large banana slug like creatures.
+
+    Ghost visitor.
 
 - __New Friends__
 
