@@ -7,7 +7,7 @@ title: Triv and Trel
 **Relationship:** Positive relationship with Voel Burung<br />
 **Species:** [Kxal](/xeno/kxal)
 
-Two [Kxal](/xeno/kxal) brothers that work on board the ??? as the crew's mechanics.
+Two [Kxal](/xeno/kxal) brothers that work on board the Coyfish as the crew's mechanics.
 
 Triv, the older of the two brothers, has midnight blue coloured fur and stands just over 3 feet tall.
 
