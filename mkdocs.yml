@@ -81,6 +81,7 @@ plugins:
   - callouts
 theme:
   name: windmill
+  titles_only: true
   # name: dracula
   # name: bootstrap386
   features:
