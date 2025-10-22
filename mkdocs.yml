@@ -13,28 +13,13 @@ nav:
     - 'The Coyfish (ship)': 'crew/the-coyfish.md'
   - 'Erilia Sector':
     - 'About the Erilia Sector': 'sector/erilia.md'
-    - 'Star Systems of Erilia':
-      - 'Bechil Quadrant': 'star-system/bechil-quadrant.md'
-      - 'Carroid': 'star-system/caaroid.md'
-      - 'Kep': 'star-system/kep.md'
-      - 'Leonis Vortex': 'star-system/leonis-vortex.md'
-      - 'Pangatis': 'star-system/pangatis.md'
-      - 'Solairace': 'star-system/solairace.md'
   - 'Star Systems':
-    - 'Bechil Quadrant':
-      - 'star-system/bechil-quadrant.md'
-      - 'Citadel': 'planet/citadel.md'
-      - 'The Burrows': 'planet/the-burrows.md'
-    - 'Caaroid':
-      - 'Poinope': 'planet/poinope.md'
-    - 'Kep':
-      - 'Veryn': 'planet/veryn.md'
-    - 'Leonis Vortex':
-      - 'Ix': 'planet/ix.md'
-    - 'Pangatis':
-      - 'Concordant Archives': 'planet/concordant-archives.md'
-    - 'Solairace':
-      - 'Juniper': 'planet/juniper.md'
+    - 'Bechil Quadrant': 'star-system/bechil-quadrant.md'
+    - 'Carroid': 'star-system/caaroid.md'
+    - 'Kep': 'star-system/kep.md'
+    - 'Leonis Vortex': 'star-system/leonis-vortex.md'
+    - 'Pangatis': 'star-system/pangatis.md'
+    - 'Solairace': 'star-system/solairace.md'
   - 'Places of Interest':
     - 'Bechil Quadrant':
       - 'The Caaroid Blockade': 'places-of-interest/the-caaroid-blockade.md'
@@ -89,7 +74,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.path
     - navigation.top
-    - navigation.indexes
+    # - navigation.indexes
     - search.suggest
     - search.share
     - toc.follow
