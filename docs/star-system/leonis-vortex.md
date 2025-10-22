@@ -16,6 +16,6 @@ title: The Leonis Vortex System
 
 Ix is the culture capital of the Erilia Sector.
 
-## Additional Rules
+#### Additional Rules
 
 Ix is the center of culture in the system and everything is mostly about who you know. When you **acquire assets**, roll with ++'CONSORT'++ instead of *crew quality*.

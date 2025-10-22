@@ -18,6 +18,6 @@ The Kep System has hyperlanes that connect to the [Leonis Vortex](/star-system/l
 
 ...
 
-## Additional Rules
+#### Additional Rules
 
 Everything is available on Veryn for a price. You can always take **+1d** to **acquire assets**, but on a **1-3** roll the asset also comes with strings (even if you boost the result with **cred**).
