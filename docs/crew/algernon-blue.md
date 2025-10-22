@@ -2,8 +2,9 @@
 title: Algernon Blue
 ---
 
-# Algernon "Kentucky" Blue
+# Algernon Blue
 
+**Callsign:** Kentucky<br />
 **Species:** Human<br />
 **Heritage:** Colonist<br />
 **Background:** Syndicate<br />

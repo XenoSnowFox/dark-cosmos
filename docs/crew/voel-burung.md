@@ -2,8 +2,9 @@
 title: Voel Burung
 ---
 
-# Voel "Demon" Burung
+# Voel Burung
 
+**Callsign:** Demon<br />
 **Species:** [Avali](/xeno/avali)<br />
 **Heritage:** Imperial<br />
 **Background:** Military<br />

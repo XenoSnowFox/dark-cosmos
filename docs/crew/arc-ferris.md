@@ -2,8 +2,9 @@
 title: Arc Ferris
 ---
 
-# Arc "Rook" Ferris
+# Arc Ferris
 
+**Callsign:** Rook<br />
 **Species:** [Yuguar](/xeno/yuguar)<br />
 **Heritage:** Manufactured<br />
 **Background:** Labor<br />
