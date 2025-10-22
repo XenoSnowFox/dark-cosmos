@@ -20,8 +20,9 @@ nav:
       - 'Leonis Vortex': 'star-system/leonis-vortex.md'
       - 'Pangatis': 'star-system/pangatis.md'
       - 'Solairace': 'star-system/solairace.md'
-  - 'Planets':
+  - 'Star Systems':
     - 'Bechil Quadrant':
+      - 'star-system/bechil-quadrant.md'
       - 'Citadel': 'planet/citadel.md'
       - 'The Burrows': 'planet/the-burrows.md'
     - 'Caaroid':
@@ -33,7 +34,7 @@ nav:
     - 'Pangatis':
       - 'Concordant Archives': 'planet/concordant-archives.md'
     - 'Solairace':
-      - 'Ganymede': 'planet/ganymede.md'
+      - 'Juniper': 'planet/juniper.md'
   - 'Places of Interest':
     - 'Bechil Quadrant':
       - 'The Caaroid Blockade': 'places-of-interest/the-caaroid-blockade.md'
@@ -88,7 +89,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.path
     - navigation.top
-    # - navigation.indexes
+    - navigation.indexes
     - search.suggest
     - search.share
     - toc.follow
