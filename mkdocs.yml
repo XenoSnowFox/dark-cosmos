@@ -79,9 +79,10 @@ plugins:
   - search
   - callouts
 theme:
-  name: windmill
-  # name: dracula
+  # name: windmill
+  name: readthedocs
   # name: bootstrap386
+  titles_only: true
   features:
     - navigation.tabs
     - navigation.tabs.sticky
