@@ -44,10 +44,9 @@ nav:
       - 'Concordant News Network': 'faction/concordant-collective/concordant-news-network.md'
       - 'Matrons Engineering Guild': 'faction/concordant-collective/matrons-engineering-guild.md'
     - 'Corporate':
-      - 'Quasar Cosmetics': 'faction/corporate/quasar-cosmetics.md'
+      - 'Quasar Pharmaceuticals': 'faction/corporate/quasar-pharmaceuticals.md'
     - 'Criminal':
-      - 'Live Wires': 'faction/criminal/live-wires.md'
-      - 'Requiem Insurgency': 'faction/criminal/requiem-insurgency.md'
+      - 'Jade Syndicate': 'faction/criminal/jade-syndicate.md'
     - 'Weirdness':
       - 'The Reminiscent Sanctuary': 'faction/weird/the-reminiscent-sanctuary.md'
   - 'NPCs':
