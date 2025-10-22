@@ -13,11 +13,11 @@ title: Arc Ferris
 
 ### Hicks
 
-A mystic goods supplier and close friend.
+A mystic goods supplier and close friend. Hicks is Arc's goto supplier for any type of mystic goods.
 
 ### Blish
 
-A fellow mystic and rival.
+A fellow mystic and rival. Blish is a fellow mystic, they fell into a cultish following/ideology of The Way.
 
 ### Horux
 

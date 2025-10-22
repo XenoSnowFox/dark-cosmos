@@ -19,7 +19,7 @@ A drug dealer and close friend.
 
 ### Alben
 
-A former patient and rival.
+A former patient and rival. Alben's left arm was amputated after an artifact experiment went wrong.
 
 ### Ditha
 

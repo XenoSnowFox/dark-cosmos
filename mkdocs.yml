@@ -34,18 +34,9 @@ nav:
     - 'Weirdness':
       - 'The Reminiscent Sanctuary': 'faction/weird/the-reminiscent-sanctuary.md'
   - 'NPCs':
-    - 'Friends':
-      - 'Ada Black': 'npc/ada-black.md'
-      - 'Alben': 'npc/alben.md'
-      - 'Blish': 'npc/blish.md'
-      - 'Hicks': 'npc/hicks.md'
-      - 'Jackev': 'npc/jackev.md'
-      - 'Mav': 'npc/mav.md'
-      - 'Triv and Trel': 'npc/triv-and-trel.md'
-    - 'Persons of Interest':
-      - 'Anastasia del Vito': 'npc/anastasia-del-vito.md'
-      - 'Sandy Tate': 'npc/sandy-tate.md'
-      - 'Zeke Weatherall': 'npc/zeke-weatherall.md'
+    - 'Anastasia del Vito': 'npc/anastasia-del-vito.md'
+    - 'Sandy Tate': 'npc/sandy-tate.md'
+    - 'Zeke Weatherall': 'npc/zeke-weatherall.md'
   - 'Xeno Species':
     - 'Avali': 'xeno/avali.md'
     - 'Kxal': 'xeno/kxal.md'

@@ -15,6 +15,8 @@ title: Voel Burung
 
 A ship mechanic and a close friend.
 
+Triv, the older of the two [Kaxl](/xeno/kaxl) brothers, has midnight blue coloured fur and stands just over 3 feet tall. Along with his younger brother Trel, works aboard [The Coyfish](/crew/the-coyfish.md) as the ships mechanics.
+
 ### Mav
 
 A former mentor and now rival.
